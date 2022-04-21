@@ -1,6 +1,6 @@
 package part2oop
 
-object InheritanceAndTraits extends App {
+object Inheritance extends App {
   // single class inheritance: you can only extend one class at a time
   class Animal {
     val creatureType = "wild"
