@@ -96,4 +96,8 @@ object Generics extends App {
      * since a dog is an animal, the list becomes a list of animals
      */
   }
+
+  /**
+   * Exercise: expand MyList (previous class, other file) to be generic
+   */
 }
